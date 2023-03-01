@@ -1,0 +1,14 @@
+{
+  "pokemon-stats": {
+    "type": "Type",
+    "stats": {
+      "hp": "HP",
+      "attack": "Attack",
+      "defense": "Defense",
+      "speed": "Speed"
+    }
+  },
+  "search": "Search",
+  "pokemon-search-placeholder": "Pokemon Name or Id",
+  "capture": "Capture"
+}

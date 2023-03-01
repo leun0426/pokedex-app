@@ -1,0 +1,29 @@
+.pokemonImgNameTypeWrapper {
+  display: flex;
+}
+
+.pokemonImg {
+  width: 105px;
+}
+.pokemonNameTypeWrapper {
+  margin-left: 10px;
+}
+
+.statsId {
+  font-size: small;
+}
+
+.statsName {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.statType {
+  background-color: #ececec;
+  border: 2px solid black;
+  border-radius: 5px;
+  color: black;
+  font-size: small;
+  margin-right: 10px;
+  padding: 3px 10px;
+}

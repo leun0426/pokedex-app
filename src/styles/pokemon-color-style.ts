@@ -1,0 +1,10 @@
+export const backgroundColor = "#ed3f38";
+export const borderColor = "#4e1413";
+export const imgBackgroundColor = "#d9d9d9";
+export const inputCaptureBackgroundColor = "#eee";
+export const searchButtonBackgroundColor = "#892121";
+export const typeBackgroundColor = "#ececec";
+export const typeBorderColor = "#000";
+export const blackFontColor = typeBorderColor;
+export const cardBackgroundColor = "#ce3029";
+export const fontColor = "#fff";

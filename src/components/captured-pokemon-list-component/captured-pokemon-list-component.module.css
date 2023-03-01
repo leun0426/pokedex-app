@@ -1,0 +1,7 @@
+.pokemonImg {
+  width: calc(105px * .4);
+}
+
+.pokemonImgWrapper:not(:first-of-type) .pokemonImg {
+  margin-top: 10px;
+}

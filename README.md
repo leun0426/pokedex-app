@@ -1,3 +1,24 @@
+# Project Information
+The purpose of this Project is to build a fun and simple application that fetches and displays Pokemon data
+
+# Pokedex
+This Pokemon App allows user to search for any pokemon and add it to the captured list. The app uses the PokeAPI. Pokemon data can be fetched at https://pokeapi.co/api/v2/pokemon/pikachu (Replace "pikachu" with a pokemon name or id).
+
+# Users can search any pokemon by name or id and display it's information.
+1. Front-facing image
+2. Name
+3. ID/Name
+4. List all types associated.
+5. List 4 stats. (HP, Attack, Defense, Speed)
+# Capture Button
+1. Pressing the "Capture" button adds the current Pokemon to the list on the right.
+2. Can capture the same pokemon multiple times.
+3. Can only capture up to 6 pokemon.
+
+# Captured List
+1. Displays all captured Pokemon images stacked vertically.
+2. Clicking on a captured Pokemon removes it from the list.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +26,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Installs the app dependencies and libraries.
+
+*** Note ***
+Chakra UI build (chakra-ui/react": "^2.5.1",) created 6 high severity vulnerabilities that needs to be addressed in the future.
 
 ### `npm start`
 
@@ -44,3 +72,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+To learn about Chakra UI checkout the [Chakra UI Documentation](https://chakra-ui.com/)
+
+To learn about Axios checkout the [Axios Documentation](https://axios-http.com/docs/intro)
